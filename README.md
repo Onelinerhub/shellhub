@@ -10,19 +10,18 @@ curl -s https://raw.githubusercontent.com/Onelinerhub/shellhub/main/setup.sh | s
 ```
 
 ## Usage
-After installation you'll be able to use `oh` utility to search for codes:
-
-E.g., search for `nano edit` keywords:
+After installation you'll be able to use `oh` utility to search for codes. For example, search for `nano edit` keywords:
 ```
 oh nano edit
 ```
+will show all found solutions:
 ```
 1. nano / How to change tabs to spaces when editing
 2. nano / How to edit a remote file
 3. nano / How to edit files from the result of find command
 ```
 
-If single solution is found (and it has single line in it), `oh` will try to automatically copy it right to the terminal input:
+If single solution is found (and it has single line in it), `oh` will try to automatically copy (works for desktops/laptops only) it right to the terminal input:
 ```
 oh view image cli
 ```
