@@ -1,2 +1,2 @@
 sudo apt install -y xdotool
-curl https:// -o /usr/local/bin/oh
+curl https://raw.githubusercontent.com/Onelinerhub/shellhub/main/oh.sh -o /usr/local/bin/oh
