@@ -1,6 +1,8 @@
 # shellhub
 Shell utility to search onelinerhub directly from terminal (and executing commands if needed)
 
+(/oh.gif)
+
 ## Installation
 
 As of now installation under Ubuntu only is supported:
