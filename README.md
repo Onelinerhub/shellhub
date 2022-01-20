@@ -18,7 +18,6 @@ will show all found solutions:
 ```
 1. nano / How to change tabs to spaces when editing
 2. nano / How to edit a remote file
-3. nano / How to edit files from the result of find command
 ```
 
 If single solution is found (and it has single line in it), `oh` will try to automatically copy (works for desktops/laptops only) it right to the terminal input:
